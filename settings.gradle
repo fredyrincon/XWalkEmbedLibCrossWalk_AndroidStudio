@@ -1,0 +1,2 @@
+include ':app'
+include ':xwalk_core_library'
