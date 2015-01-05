@@ -41,6 +41,8 @@ talk/app/webrtc/java
 
 http://stackoverflow.com/questions/16517935/webrtc-on-a-standalone-mobile-app/19519395#19519395
 
+http://simonguest.com/2013/08/06/building-a-webrtc-client-for-android/
+
 
 webrct iOS
 ====================================
