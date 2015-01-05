@@ -45,6 +45,12 @@ http://simonguest.com/2013/08/06/building-a-webrtc-client-for-android/
 
 https://crosswalk-project.org/documentation/webrtc.html
 
+http://www.slideshare.net/VeselinPizurica/webrct-presentation
+
+http://www.slideshare.net/deanb/forecasting-the-webrtc-market
+
+http://www.slideshare.net/dhamavijays/webrtc-17414738
+
 webrct iOS
 ====================================
 
